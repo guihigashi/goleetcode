@@ -1,4 +1,4 @@
-package _002
+package n0002
 
 func addTwoNumbers(l1 *ListNode, l2 *ListNode) *ListNode {
 	dummy := &ListNode{}

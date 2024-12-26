@@ -1,4 +1,4 @@
-package _005
+package n0005
 
 import (
 	"strings"

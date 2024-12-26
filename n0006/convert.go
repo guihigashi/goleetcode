@@ -1,4 +1,4 @@
-package _006
+package n0006
 
 import (
 	"bytes"

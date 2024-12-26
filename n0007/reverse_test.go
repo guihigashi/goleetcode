@@ -1,4 +1,4 @@
-package _007
+package n0007
 
 import "testing"
 
